@@ -9,7 +9,7 @@
     if(A>=89&&A<101){
     cout<<"A";
     
-    } else if(A>=81&&A<=89){
+    } else if(A>=81&&A<89){
     cout<<"B";
     } else if(A>=74&&A<81){
         cout<<"C";
