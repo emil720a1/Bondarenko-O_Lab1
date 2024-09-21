@@ -1,13 +1,12 @@
-    #include <iostream>
+      #include <iostream>
     using namespace std;
     int main(){
     int A;
     cout<<"enter num";
     cin>>A;
-    if(A>90){
-    cout<<"A";
 
-    } else if(A>89&&A<101){
+
+    if(A>89&&A<101){
     cout<<"A";   
     } else if(A>81&&A<89){
     cout<<"B";
